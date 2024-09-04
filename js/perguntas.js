@@ -1,19 +1,19 @@
 export const perguntas = [
     {
-        enunciado: " ",
+        enunciado: "Em qual Distrito Katniss vive antes de ser escolhida como tributo? ",
         alternativas: [
             {
-                texto: "",
+                texto: "Distrito 11",
                 afirmacao: [
-                    "",
+                    "Errado",
                     ""
                 ],
                 proxima: 1,
             },
             {
-                texto: "",
+                texto: "Distrito 12",
                 afirmacao: [
-                    "",
+                    "Correto",
                     ""
                 ],
                 proxima: 2,
@@ -21,21 +21,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Qual é o propósito dos Jogos Vorazes?",
         alternativas: [
             {
-                texto: "",
+                texto: "Entreter o Capitol e manter a ordem através do medo",
                 afirmacao: [
-                    "",
+                    "Correto",
                     "",
                     ""
                 ],
                 proxima: 3,
             },
             {
-                texto: "",
+                texto: " Reforçar a aliança entre os distritos",
                 afirmacao: [
-                    "",
+                    "Errado",
                     "",
                     ""
                 ],
@@ -44,21 +44,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Qual é o nome do símbolo que representa a resistência contra o Capitol?",
         alternativas: [
             {
-                texto: "",
+                texto: "O Falcão",
                 afirmacao: [
-                    "",
+                    "Errado",
                     "",
                     ""
                 ],
                 proxima: 3,
             },
             {
-                texto: "",
+                texto: " O Tordo (Mockingjay)",
                 afirmacao: [
-                    "",
+                    "Correto",
                     "",
                     ""
                 ],
@@ -67,20 +67,20 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Quem é o mentor de Katniss e Peeta durante os Jogos?",
         alternativas: [
             {
-                texto: "",
+                texto: " Haymitch Abernathy",
                 afirmacao: [
-                    "",
+                    "Correto",
                     ""
                 ],
                 proxima: 5,
             },
             {
-                texto: "",
+                texto: "Effie Trinket",
                 afirmacao: [
-                    "",
+                    "Errado",
                     ""
                 ],
                 proxima: 6,
@@ -88,41 +88,41 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Qual tributo do Distrito 11 ajuda Katniss durante os Jogos?",
         alternativas: [
             {
-                texto: "",
+                texto: " Clove",
                 afirmacao: [
-                    "",
+                    "Errado",
                     ""
                 ],
                 proxima: 5,
             },
             {
-                texto: "",
+                texto: "Rue",
                 afirmacao: [
-                    "",
+                    "Correto",
                     ""
                 ],
                 proxima: 6,
             },
         ]
     },
-    {
-        enunciado: "",
+    { 
+        enunciado: " O que faz com que Katniss e Peeta se tornem um casal simbólico durante os Jogos?",
         alternativas: [
             {
-                texto: "",
+                texto: "A colaboração de Katniss e Peeta em uma aliança com outros tributos",
                 afirmacao: [
-                    "",
+                    "Errado",
                     ""
                 ],
                 proxima: 7,
             },
             {
-                texto: "",
+                texto: " O ato de Peeta declarar seu amor por Katniss na televisão",
                 afirmacao: [
-                    "",
+                    "Correto",
                     ""
                 ],
                 proxima: 7,
@@ -130,20 +130,20 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Qual é o nome da protagonista de “Jogos Vorazes”?",
         alternativas: [
             {
-                texto: "",
+                texto: "Peeta Mellark",
                 afirmacao: [
-                    "",
+                    "Errado",
                     ""
                 ],
                 proxima: 7,
             },
             {
-                texto: "",
+                texto: "Katniss Everdeen",
                 afirmacao: [
-                    "",
+                    "Correto",
                     ""
                 ],
                 proxima: 7,
@@ -151,19 +151,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Como os tributos são selecionados para participar dos Jogos Vorazes?",
         alternativas: [
             {
-                texto: "",
+                texto: "Através de um sorteio público",
                 afirmacao: [
-                    "",
+                    "Correto",
                     ""
                 ],
             },
             {
-                texto: "",
+                texto: "Através de um teste de habilidades",
                 afirmacao: [
-                    "",
+                    "Errado",
                     "",
                     ""
                 ],
